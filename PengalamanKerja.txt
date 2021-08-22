@@ -1,0 +1,81 @@
+Pengalaman Bekerja
+==================
+AGIT :
+- Sebagai Java Developer
+- Membuat Aplikasi HR dan Aplikasi Logistik untuk client di Pontianak
+- Technical Support project BNI
+
+E2Pay Global Utama :
+- Sebagai Java Web Developer
+- Pengembangan product Biller Gateway, di backend dan frontend, termasuk mekanisme transaksi, kalkulasi saldo, dll
+
+Detikcom :
+- Sebagai Data Engineer
+- Manage database
+- Membuat microservices, API
+- Membuat ETL
+- Membuat website untuk tim internal
+- Ingestion Data
+- Deploying Model Machine Learning
+- Build data pipeline process
+- Membuat mekanisme monitoring otomatis report error
+- Maintaining Program
+- dll
+
+
+Cerita Cara Kerja Sehari-hari
+=============================
+- Setiap pagi daily meeting fullteam, untuk ngobrol progress, dan task selanjutnya. Atasan Section Head
+- Di tempat bekerja saat ini pembagian tugasnya berdasarkan kemampuan, dan program yang di handle sendiri
+- Untuk komunikasi menggunakan bahasa Indonesia, sopan dan santai
+- Berhubungan dengan team lain juga, contohnya team Product, ada banyak product yang dihandle yaitu detikcom, cnn, cnbc, haibunda, insertlive, beautynesia, dll
+- Tools kolaborasi disini menggunakan Gmail, Google Chat, Google Meet, Whatsapp
+
+
+Cara Membagi Waktu Kerja Freelance 
+==================================
+Saya akan memberikan waktu untuk freelance 
+- Weekday : Dari jam 19.00 s/d 22.00.
+- Weekend : Dari jam 09.00 s/d 12.00
+            Lanjut jam 15.00 s/d 17.00
+            Lanjut jam 19.00 s/d 22.00
+
+Tapi sebenarnya akan menyesuaikan sih untuk jamnya,
+gak berpatokan diatas juga, bisa saja dilebihkan,
+yang jelas untuk tanggungjawab akan saya perhatikan.
+
+Meeting dengan tim DOT atau client
+==================================
+Untuk di jam kerja sepertinya belum bisa,
+mungkin saat masih keadaan WFH begini bisa,
+tapi ketika sudah WFO tidak bisa.
+
+Untuk chat masih bisa.
+
+
+Agile Development dan Scrum
+===========================
+Yang saya ketahui yaitu task management untuk menyelesaikan project.
+
+
+Terdapat Task Urgent dari freelance DOT
+=======================================
+Sebenarnya balik ke pembagian waktunya sih.
+Pada jam kerja saya akan fokus kepada pekerjaan fulltime.
+Diluar itu akan fokus ke pekerjaan freelance.
+
+
+Alasan mengambil Freelance
+==========================
+Butuh kenaikan finansial.
+Kalau lebih menjanjikan sebagai freelance, bisa jadi kedepannya fokus sebagai freelancer, asal project ada terus.
+
+
+Ekspektasi Free
+===============
+Ekspektasi per project yaitu 5 juta.
+Negotiable dengan memperhatikan besar projectnya juga.
+Kalau project lebih besar Ekspektasi bisa lebih juga.
+
+Namun saya kembalikan ke penawaran Freelance DOT, 
+bisa di negosiasikan.
