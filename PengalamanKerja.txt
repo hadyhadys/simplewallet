@@ -56,6 +56,7 @@ Untuk chat masih bisa.
 Agile Development dan Scrum
 ===========================
 Yang saya ketahui yaitu task management untuk menyelesaikan project.
+Diperusahan E2Pay, disana menggunakan Scrum, ada scrum master juga
 
 
 Terdapat Task Urgent dari freelance DOT
